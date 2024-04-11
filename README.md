@@ -25,7 +25,8 @@ Documentation for how to use Noodl can be found here:
 [https://noodlapp.github.io/noodl-docs/](https://noodlapp.github.io/noodl-docs/)
 
 ## Community
-Main support channel is Discord: [https://www.noodl.net/community](https://www.noodl.net/community)
+Main Noodl support channel is Discord: [https://discord.com/channels/762003889742413824/1123164610434961418](https://discord.com/channels/762003889742413824/1123164610434961418)
+Low Code Foundation support channel: [https://discord.com/channels/1220115374847168522/1225372135363706890](https://discord.com/channels/1220115374847168522/1225372135363706890)
 
 ## Download releases
 Pre-built binaries can be [downloaded from Github](https://github.com/noodlapp/noodl/releases)
